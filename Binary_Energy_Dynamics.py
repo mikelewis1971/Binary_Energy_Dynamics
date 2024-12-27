@@ -9,7 +9,15 @@ from scipy.stats import ttest_ind
 
 
 # ----------------------------
-# 1. Blockchain Implementation
+''' 1. Blockchain Implementation
+
+The Purpose of the blockchain is to serve as a ledger and a way of tracking divide by zero events.  It serves as a psuedo-entanglement
+variable.  While not true entanglement, you can achieve reversibility via the blockchain.  This Blockchain is not the real blockchain
+I recommend but it's a proof of concept.
+
+The real blockchain only focuses on energy and ensures every transaction resolves to 0 so we know that all requests are legitimate and
+accurate.  I will release that at some later date.  Or feel free to figure it out on your own.
+'''
 # ----------------------------
 class Block:
     def __init__(self, index, timestamp, data, previous_hash):
