@@ -105,6 +105,7 @@ class Blockchain:
 def is_prime(n):
     """
     Checks if a number is prime based on factorization.
+    No traditional factorization equations were used. Only binary energy based factors.
 
     Parameters:
         n (int): The number to check.
