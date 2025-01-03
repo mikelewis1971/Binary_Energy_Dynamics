@@ -1,5 +1,7 @@
 # Binary_Energy_Dynamics
 
+live demo: http://signals.hopto.org:5000/
+
 https://www.democraticunderground.com/122891331
 
 Full description of all the math here.
